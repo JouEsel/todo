@@ -1,1 +1,1 @@
-# todo-hyperskill-
+# todo list in cmd from hyperskill
